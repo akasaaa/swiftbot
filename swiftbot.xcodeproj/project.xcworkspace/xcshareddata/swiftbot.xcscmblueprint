@@ -1,4 +1,5 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8A59F2A32A2231854E009E4583C437388DEEA552",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
@@ -10,6 +11,7 @@
     "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : 9223372036854775807,
     "75224C288D14A799245F99223249EF48FF5DC280" : 9223372036854775807,
     "059D3DBD8E6D472364073CC069CEBFB635609AE5" : 9223372036854775807,
+    "8A59F2A32A2231854E009E4583C437388DEEA552" : 9223372036854775807,
     "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E6A7CC9C-C805-42B1-A153-A7A62019C3C3",
@@ -21,6 +23,7 @@
     "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : "swiftbot\/.build\/checkouts\/Starscream-6423249093605004847\/",
     "75224C288D14A799245F99223249EF48FF5DC280" : "swiftbot\/.build\/checkouts\/swifter.git--8814129713726061435\/",
     "059D3DBD8E6D472364073CC069CEBFB635609AE5" : "swiftbot\/.build\/checkouts\/SKWebAPI--3675534262364500136\/",
+    "8A59F2A32A2231854E009E4583C437388DEEA552" : "swiftbot\/",
     "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4" : "swiftbot\/.build\/checkouts\/SKCore-6808240924544108153\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "swiftbot",
@@ -46,6 +49,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/ichimots\/swiftbot\/.build\/repositories\/SlackKit.git-5688595846546841342",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C8CB4917A87F5E5383E6800524CC50437576509"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ichimots\/swiftbot.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A59F2A32A2231854E009E4583C437388DEEA552"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/ichimots\/swiftbot\/.build\/repositories\/SKServer--3675535218600224055",

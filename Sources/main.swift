@@ -14,6 +14,22 @@ import SlackKit
 let piyoRepository = "https://github.com/s10284tk"
 let ichimotsRepository = "https://github.com/ichimots"
 
+extension String {
+    
+    static var xoxb: String {
+        return "xoxb"
+    }
+    
+    var _190268453026: String {
+        return self + "-190268453026"
+    }
+    
+    var _YyHuRrmKXYNBqbRgliRUnBob: String {
+        return self + "-YyHuRrmKXYNBqbRgliRUnBob"
+    }
+    
+}
+
 class SwiftBot {
     
     let bot: SlackKit
@@ -53,5 +69,5 @@ class SwiftBot {
 }
 
 // TODO: 直書きをやめて別管理する
-let bot = SwiftBot(token: "xoxb-190268453026-2jRqr3syyNHM2ujbE7Jdudr3")
+let bot = SwiftBot(token: String.xoxb._190268453026._YyHuRrmKXYNBqbRgliRUnBob)
 RunLoop.main.run()
