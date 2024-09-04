@@ -2,7 +2,7 @@
 //  main.swift
 //  swiftbot
 //
-//  Created by いちもつ青田 on 2017/06/17.
+//  Created by akasaaa on 2017/06/17.
 //
 //
 
